@@ -4,7 +4,7 @@ public class Reverse {
     public static void main(String[] args) {
         Scanner inp=new Scanner(System.in);
         int n=inp.nextInt();
-       rev(n);
+        rev(n);
 
     }
     static void rev (int n){
